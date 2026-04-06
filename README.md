@@ -1,4 +1,4 @@
-# @orabdillh/pinia-persisted-indexeddb
+# @or-abdillh/pinia-persisted-indexeddb
 
 Pinia plugin for persisted state using **IndexedDB** as the primary storage backend, with a complete automatic fallback chain.
 
@@ -47,13 +47,13 @@ Designed to survive hostile environments: private mode, sandboxed iframes, Safar
 ## Installation
 
 ```bash
-npm install @orabdillh/pinia-persisted-indexeddb
+npm install @or-abdillh/pinia-persisted-indexeddb
 ```
 
 Or via git:
 
 ```bash
-npm install github:orabdillh/pinia-persisted-indexeddb
+npm install github:or-abdillh/pinia-persisted-indexeddb
 ```
 
 Peer dependencies (install if not already in your project):
@@ -72,7 +72,7 @@ npm install vue pinia
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
-import { createIndexedDBPlugin } from '@orabdillh/pinia-persisted-indexeddb'
+import { createIndexedDBPlugin } from '@or-abdillh/pinia-persisted-indexeddb'
 
 const pinia = createPinia()
 

@@ -17,7 +17,7 @@ const WRITE_DEBOUNCE_MS = 50
  * @example
  * ```ts
  * import { createPinia } from 'pinia'
- * import { createIndexedDBPlugin } from '@orabdillh/pinia-persisted-indexeddb'
+ * import { createIndexedDBPlugin } from '@or-abdillh/pinia-persisted-indexeddb'
  *
  * const pinia = createPinia()
  * pinia.use(createIndexedDBPlugin({

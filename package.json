@@ -1,5 +1,5 @@
 {
-  "name": "@orabdillh/pinia-persisted-indexeddb",
+  "name": "@or-abdillh/pinia-persisted-indexeddb",
   "version": "1.0.0",
   "description": "Pinia plugin for persisted state using IndexedDB with automatic fallback chain (IndexedDB → localStorage → sessionStorage → memory)",
   "type": "module",
@@ -44,12 +44,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orabdillh/pinia-persisted-indexeddb.git"
+    "url": "git+https://github.com/or-abdillh/pinia-persisted-indexeddb.git"
   },
   "bugs": {
-    "url": "https://github.com/orabdillh/pinia-persisted-indexeddb/issues"
+    "url": "https://github.com/or-abdillh/pinia-persisted-indexeddb/issues"
   },
-  "homepage": "https://github.com/orabdillh/pinia-persisted-indexeddb#readme",
+  "homepage": "https://github.com/or-abdillh/pinia-persisted-indexeddb#readme",
   "peerDependencies": {
     "pinia": ">=2.0.0",
     "vue": ">=3.0.0"
