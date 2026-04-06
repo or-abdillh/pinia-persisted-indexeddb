@@ -1,5 +1,11 @@
 # @or-abdillh/pinia-persisted-indexeddb
 
+<p>
+  <img src="https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Pinia-2-ffd859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia 2" />
+  <img src="https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
 Pinia plugin for persisted state using **IndexedDB** as the primary storage backend, with a complete automatic fallback chain.
 
 - **Primary:** IndexedDB (via [`idb`](https://github.com/jakearchibald/idb))
